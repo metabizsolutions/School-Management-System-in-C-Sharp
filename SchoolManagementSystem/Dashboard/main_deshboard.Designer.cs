@@ -104,13 +104,11 @@ namespace SchoolManagementSystem.Dashboard
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
-            this.groupControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.grid_present_std_list)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView1)).BeginInit();
             this.flowLayoutPanel9.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).BeginInit();
-            this.groupControl2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.grid_attendace_gender)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView2)).BeginInit();
             this.flowLayoutPanel12.SuspendLayout();
@@ -519,7 +517,7 @@ namespace SchoolManagementSystem.Dashboard
             this.dtp_from_date.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dtp_from_date.Location = new System.Drawing.Point(272, 3);
             this.dtp_from_date.Name = "dtp_from_date";
-            this.dtp_from_date.Size = new System.Drawing.Size(91, 20);
+            this.dtp_from_date.Size = new System.Drawing.Size(91, 21);
             this.dtp_from_date.TabIndex = 10;
             // 
             // dtp_todate
@@ -528,7 +526,7 @@ namespace SchoolManagementSystem.Dashboard
             this.dtp_todate.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dtp_todate.Location = new System.Drawing.Point(369, 3);
             this.dtp_todate.Name = "dtp_todate";
-            this.dtp_todate.Size = new System.Drawing.Size(91, 20);
+            this.dtp_todate.Size = new System.Drawing.Size(91, 21);
             this.dtp_todate.TabIndex = 11;
             // 
             // btn_absent_count
@@ -772,14 +770,12 @@ namespace SchoolManagementSystem.Dashboard
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).EndInit();
-            this.groupControl1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.grid_present_std_list)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView1)).EndInit();
             this.flowLayoutPanel9.ResumeLayout(false);
             this.flowLayoutPanel9.PerformLayout();
             this.panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).EndInit();
-            this.groupControl2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.grid_attendace_gender)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView2)).EndInit();
             this.flowLayoutPanel12.ResumeLayout(false);

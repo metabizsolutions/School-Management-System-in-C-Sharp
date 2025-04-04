@@ -9916,3 +9916,4 @@ C:\Users\Muhammad Haseeb\Downloads\Compressed\School-Management-System-in-C-shar
 C:\Users\Muhammad Haseeb\Downloads\Compressed\School-Management-System-in-C-sharp-730f1ab59f2b1e2ae0fecf7bb3a24325eceeef16\SchoolManagementSystem\obj\Debug\SchoolMa.D9F7BBC0.Up2Date
 C:\Users\Muhammad Haseeb\Downloads\Compressed\School-Management-System-in-C-sharp-730f1ab59f2b1e2ae0fecf7bb3a24325eceeef16\SchoolManagementSystem\obj\Debug\OSP Management.exe
 C:\Users\Muhammad Haseeb\Downloads\Compressed\School-Management-System-in-C-sharp-730f1ab59f2b1e2ae0fecf7bb3a24325eceeef16\SchoolManagementSystem\obj\Debug\OSP Management.pdb
+C:\Users\Muhammad Haseeb\Documents\GitHub\School-Management-System-in-C-Sharp\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Roll_No_Slip.Form1.resources
